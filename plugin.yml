@@ -1,0 +1,4 @@
+name: SwimPMMP
+main: SwimPMMP\Swim
+version: 1.1
+api: 3.0.0
